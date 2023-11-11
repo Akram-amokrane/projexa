@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "projexa-c658e": {
+      "hosting": {
+        "projexa": [
+          "projexa"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "projexa-c658e"
+  }
+}
